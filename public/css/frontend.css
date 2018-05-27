@@ -1,0 +1,14 @@
+body{
+  background-attachment:fixed;
+  background-image: url("/images/confectionary.png");
+  padding-top: 75px;
+}
+
+#page{
+  min-height:570px;
+  padding:1%;
+  width:80%;
+  height: inherit;
+  margin-left: 10%;
+  background-color: rgba(254, 254, 254, 0.7);
+}
